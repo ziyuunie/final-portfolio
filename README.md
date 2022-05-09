@@ -4,10 +4,10 @@ Video: https://drive.google.com/file/d/1fRnmrdqtlC3hKF_SP_cx1lMzrI8lbsJQ/view?us
 II.  
 Figma: https://www.figma.com/file/ZJKma3QCroawNOFogtgduW/hw-%237?node-id=0%3A1  
 Website: https://portfolio-531df.web.app  
-Github: https://github.com/ziyuunie/portfolio  
+Github: https://github.com/ziyuunie/final-portfolio
 
 III.  
-Purpose - UX Design portfolio showcasing classwork  
+Purpose - Updated UX Design portfolio showcasing classwork  
 Information - Capabilities regarding design, what I have experience with, thought process when creating  
 Interesting/Engaging - Typewriter effect, Fade in effect  
 Target Audience - Anyone interested in seeing my work, hiring managers, UX designers  
@@ -37,7 +37,7 @@ How - Typewriter animations on the less serious pages to lighten the air
 Adds - Gives the website more of a casual feeling and also adds more anticipation, especially on the home page since it types multiple different things  
 
 VI.  
-Iterations from HW #7 - More informational header with work dropdown, more interactive way to take a quick glance at the all different pieces and choose which one you want to take a closer look at, changed main point color, and added some more colorful aspects
+Iterations from HW #8 - Scrolling progress bar, faster loading, better color contrast, media organization, slider dot indicator
 
 VII.  
-Major Challenges - Keeping track to make sure the website was responsive, adjusting small details (sizes, alignment, visibility, colors, etc.), and implementing jQuery
+Major Challenges - Keeping track to make sure the website was responsive, adjusting small details (sizes, alignment, visibility, colors, etc.), re-deploying new files and implementing jQuery
